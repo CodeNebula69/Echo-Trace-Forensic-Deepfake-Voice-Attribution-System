@@ -1,0 +1,6 @@
+Upload Photo / Video / Audio,Verdict,Traceability Report,timestamp
+.gradio\flagged\Upload Photo  Video  Audio\0834f6b08aabb41ff43e\20260205_130335.jpg.jpeg,FAKE DETECTED,"Modality: Image
+Verdict: FAKE DETECTED
+
+Traceability Report:
+[Image Data] RMS Contrast: 57.48 | Rel. Fourier: 0.44 (flag=True) | Rel. SRM: 0.08 (flag=True) | AI Model Prob: 0.49 | Final Fusion Score: 0.80 | Decision: FAKE / AI-generated (Likely Diffusion/Nano Banana)",2026-03-08 11:09:37.591294
